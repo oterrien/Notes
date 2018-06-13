@@ -1,3 +1,4 @@
 # Notes
 
-[SOLID](/SOLID.md)
+[SOLID](SOLID.md)
+[ACID](ACID.md)
