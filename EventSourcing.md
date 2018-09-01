@@ -1,5 +1,5 @@
-[Axon Framework](https://docs.axonframework.org/)
-https://www.jooq.org/
+[Axon Framework](https://docs.axonframework.org/)  
+[jOOQ](https://www.jooq.org/)  
 
 # CQRS
 
